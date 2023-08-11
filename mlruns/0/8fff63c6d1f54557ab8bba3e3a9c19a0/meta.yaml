@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLflow/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/8fff63c6d1f54557ab8bba3e3a9c19a0/artifacts
+end_time: 1691783885097
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8fff63c6d1f54557ab8bba3e3a9c19a0
+run_name: upset-tern-560
+run_uuid: 8fff63c6d1f54557ab8bba3e3a9c19a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691783870585
+status: 3
+tags: []
+user_id: prath
