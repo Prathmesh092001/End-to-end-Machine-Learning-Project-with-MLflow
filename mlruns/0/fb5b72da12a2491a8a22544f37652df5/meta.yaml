@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLflow/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/fb5b72da12a2491a8a22544f37652df5/artifacts
+end_time: 1691941674596
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb5b72da12a2491a8a22544f37652df5
+run_name: rumbling-turtle-353
+run_uuid: fb5b72da12a2491a8a22544f37652df5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691941658417
+status: 3
+tags: []
+user_id: prath
