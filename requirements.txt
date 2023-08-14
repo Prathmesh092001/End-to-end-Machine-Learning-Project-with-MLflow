@@ -2,8 +2,8 @@ pandas
 mlflow==2.2.2
 notebook
 numpy
-scikit-learn
 matplotlib
+scikit-learn
 python-box==6.0.2
 pyYAML
 tqdm
